@@ -1,0 +1,1 @@
+(function(){$(function(){return FastClick.attach(document.body)})}).call(this),function(){$(function(){return"use strict"}),$(document).ready(function(){$("#owl-slides").owlCarousel({items:1,autoPlay:!0,slideSpeed:800,singleItem:!0})}),$(function(){$("#menu").slicknav()})}.call(this);
